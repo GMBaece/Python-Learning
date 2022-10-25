@@ -1,7 +1,7 @@
 # **Python-Learning**
 
-## I'll put my Python projcets here
+## I'll put my Python projects here
 
 ### until now i have made this projects:
  
-<img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/pocket_calculator.png" emoji-code="pocket_calculator" emoji-moji="🖩" alt="pocket calculator" /> : **Python Calculator**
+* [**Python Calculator**](https://github.com/GMBaece/Python-Learning/blob/main/Calculator.py)
